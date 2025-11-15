@@ -16,3 +16,9 @@ It helps us understand how factors like temperature and humidity affect air qual
   
 
 Week 1 and 2 done. Next step: analysis and model building.
+
+week 3
+prepared the dataset for machine learning by engineering important air-quality features
+encoding the target variable
+performing statistical checks
+splitting the data for model training.
